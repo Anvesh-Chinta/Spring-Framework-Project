@@ -14,7 +14,11 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
 import org.springframework.web.servlet.view.InternalResourceViewResolver;
 @Configuration
 @EnableWebMvc
+<<<<<<< HEAD
 @ComponentScan(basePackages = "com.roytuts.springmvc")
+=======
+@ComponentScan(basePackages = "com.ektha.springmvc")
+>>>>>>> a2c7e90 (Project completed.)
 @PropertySource(value = { "classpath:application.properties" })
 public class WebMvcConfig extends WebMvcConfigurerAdapter {
 	@Autowired

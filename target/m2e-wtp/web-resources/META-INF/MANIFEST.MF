@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 Manifest-Version: 1.0
 Built-By: Anvesh
 Build-Jdk: 15.0.1
 Created-By: Maven Integration for Eclipse
 
+=======
+Manifest-Version: 1.0
+Built-By: Bootcamp User 35
+Build-Jdk: 15.0.1
+Created-By: Maven Integration for Eclipse
+
+>>>>>>> a2c7e90 (Project completed.)

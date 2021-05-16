@@ -11,7 +11,11 @@
 	<properties>
 		<java.version>1.8</java.version>
 		<spring.version>4.3.0.RELEASE</spring.version>
+<<<<<<< HEAD
 		<mysqlconnector.version>5.1.36</mysqlconnector.version>
+=======
+		<mysqlconnector.version>8.0.23</mysqlconnector.version>
+>>>>>>> a2c7e90 (Project completed.)
 	</properties>
 	<dependencies>
 		<dependency>
@@ -41,6 +45,16 @@
 			<artifactId>spring-orm</artifactId>
 			<version>${spring.version}</version>
 		</dependency>
+<<<<<<< HEAD
+=======
+		<!-- https://mvnrepository.com/artifact/org.springframework/spring-jdbc -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-jdbc</artifactId>
+			<version>${spring.version}</version>
+		</dependency>
+
+>>>>>>> a2c7e90 (Project completed.)
 		<!-- Servlet -->
 		<dependency>
 			<groupId>javax.servlet</groupId>
